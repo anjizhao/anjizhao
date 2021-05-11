@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anjizhao
-- 👀 I’m interested in plants, data, tea, crosswords, one direction, breakfast foods.
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on friendship
-- 📫 How to reach me: messenger pigeon
+- 👋 hi, i'm anji
+- 👀 i'm interested in data, tea, crosswords, one direction, breakfast foods.
+- 🌱 i'm currently learning about life
+- 💞️ i'm looking to collaborate on jigsaw puzzles
+- 📫 how to reach me: messenger pigeon
 
 <!---
 anjizhao/anjizhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
